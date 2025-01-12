@@ -7,6 +7,27 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+## Project Plan - Currency Exchange App
+
+MVP
+Step 1: Set up the project
+- Install Laravel
+- Install Laravel UI and Vue.js
+- Install and configure CSS Tailwind
+
+Step 2: Back-End
+- Implement the back-end for API integration
+- Source an API key from a currency exchange API service
+- Add API key to the .env file
+- Create a file to access and fetch the API data
+
+Step 3: Front-End
+- Create the front-end for the project
+- Create the app display to show API data
+
+
+
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
